@@ -1,0 +1,22 @@
+{
+  "name": "buaiti-server-app",
+  "version": "1.0.0",
+  "description": "buaiti server application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/buaiti/buaiti-server-app.git"
+  },
+  "keywords": [
+    "buaiti"
+  ],
+  "author": "ccpony86",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buaiti/buaiti-server-app/issues"
+  },
+  "homepage": "https://github.com/buaiti/buaiti-server-app"
+}
